@@ -1,0 +1,1 @@
+[15-Oct-2021 10:00:45 Asia/kuala_lumpur] PHP Fatal error:  Cannot use try without catch or finally in /home/dprastec/public_html/tracer_politani/application/models/Mahasiswa_model.php on line 36
